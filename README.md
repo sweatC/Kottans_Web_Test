@@ -7,4 +7,6 @@ Web development course.
 ###Linux Command Line Basics
 ![alt text](task_1/Linux Command Line Basics1.PNG)
 ###Configuring Linux Web Servers
-![alt text](task_1/Configuring Linux Web Servers0.png) 
+![alt text](task_1/Configuring Linux Web Servers0.png)
+![alt text](task_1/Configuring Linux Web Servers2.png)
+
