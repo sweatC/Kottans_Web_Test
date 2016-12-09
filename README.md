@@ -1,4 +1,4 @@
-# Kottans_Web_Test
+# Kottans-Web-Test
 Web development course.
 
 ## Task 0(get familiar with Git and Github):
